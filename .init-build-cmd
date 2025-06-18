@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npm run check && npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/simplerecipemanager-61669-e8b8fc3c/simplerecipe_manager"
+}
